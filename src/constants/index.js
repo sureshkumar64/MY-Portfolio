@@ -331,7 +331,7 @@ const imageProjects = [
   {
     id: 12,
     image: matrixai,
-    url: "https://jj-matrix-ai.vercel.app/",
+    url: "https://jj-nextgen-ai.vercel.app/",
     title: "Matrix AI",
     description: "",
   },
@@ -460,7 +460,7 @@ const projects = [
     ],
     image: matrixai,
     source_code_link: "https://github.com/jeffjiang13/MatrixAI",
-    liveUrl: "https://jj-matrix-ai.vercel.app/",
+    liveUrl: "https://jj-nextgen-ai.vercel.app/",
   },
   {
     name: "LinkTri",
