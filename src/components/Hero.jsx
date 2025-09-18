@@ -48,7 +48,7 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>
             Hi, I'm{" "}
             <span className="animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent font-black">
-              Jeff <span className="hidden sm:inline">Jiang</span>
+              Suresh <span className="hidden sm:inline">Kumar</span>
             </span>
           </h1>
 
@@ -78,41 +78,41 @@ const Hero = () => {
       </div>
 
       <div className="absolute right-5 top-1/2 -translate-y-1/2 flex flex-col gap-5 items-center md:mt-10 mt-5 md:gap-12">
-        <Link target="_blank" to="https://www.linkedin.com/in/jeffjiang13/">
+        <Link target="_blank" to="#">
           <BsLinkedin
             size={30}
             className="icon hover:text-[#0e76a8] hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100"
           />
         </Link>
 
-        <Link target="_blank" to="https://github.com/jeffjiang13">
+        <Link target="_blank" to="#">
           <BsGithub
             size={30}
             className="icon hover:text-[#494646] hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100"
           />
         </Link>
 
-        <Link target="_blank" to="https://twitter.com/jeffjiang9">
+        <Link target="_blank" to="#">
           <BsTwitter
             size={30}
             className="icon hover:text-[#1DA1F2] hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100"
           />
         </Link>
 
-        <Link target="_blank" to="https://discord.com/channels/@jeff.jiang13">
+        <Link target="_blank" to="#">
           <BsDiscord
             size={30}
             className="icon hover:text-[#5865F2] hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100"
           />
         </Link>
 
-        <Link target="_blank" to="https://www.instagram.com/trainer.jeff212/">
+        <Link target="_blank" to="#">
           <BsInstagram
             size={30}
             className="icon hover:text-[#E1306C] hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100"
           />
         </Link>
-        <Link target="_blank" to="https://www.facebook.com/jeff.jiang.9/">
+        <Link target="_blank" to="#">
           <BsFacebook
             size={30}
             className="icon hover:text-[#1877F2] hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100"
